@@ -1249,7 +1249,7 @@ MonoBehaviour:
   m_StereoPacking: 0
   m_AlphaPacking: 0
   m_DisplayDebugStereoColorTint: 0
-  m_FilterMode: 2
+  m_FilterMode: 1
   m_WrapMode: 1
   m_AnisoLevel: 0
   m_LoadSubtitles: 0
@@ -1280,7 +1280,7 @@ MonoBehaviour:
     useHardwareDecoding: 1
     useUnityAudio: 0
     forceAudioResample: 1
-    useTextureMips: 1
+    useTextureMips: 0
     hintAlphaChannel: 0
     useLowLatency: 1
     forceAudioOutputDeviceName: 
@@ -1613,7 +1613,7 @@ MonoBehaviour:
     forceAudioResample: 1
     useTextureMips: 0
     hintAlphaChannel: 0
-    useLowLatency: 0
+    useLowLatency: 1
     forceAudioOutputDeviceName: 
     preferredFilters: []
     enableAudio360: 0
@@ -2093,7 +2093,7 @@ MonoBehaviour:
     forceAudioResample: 1
     useTextureMips: 0
     hintAlphaChannel: 0
-    useLowLatency: 0
+    useLowLatency: 1
     forceAudioOutputDeviceName: 
     preferredFilters: []
     enableAudio360: 0
@@ -5854,7 +5854,7 @@ MonoBehaviour:
     forceAudioResample: 1
     useTextureMips: 0
     hintAlphaChannel: 0
-    useLowLatency: 0
+    useLowLatency: 1
     forceAudioOutputDeviceName: 
     preferredFilters: []
     enableAudio360: 0

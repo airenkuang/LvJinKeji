@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-D:/UnityProject/济南金茂府/济南金茂/绿金科技/绿金科技发布2019-6-10-02/绿金科技.exe
+D:/UnityProject/济南金茂府/济南金茂/绿金科技/绿金科技发布2019-6-12-01/绿金科技.exe
 SceneListBegin?
 Assets/Scenes/Scene02.unity
 SceneListEnd?
